@@ -27,6 +27,9 @@ plt.tick_params(labelsize=16)
 plt.title('(b)', fontsize=16)
 plt.show()
 
+# interploation
+
+
 
 
 
